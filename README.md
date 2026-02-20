@@ -1,0 +1,2 @@
+# BrandNameGenerator
+🐍 Day 1 of Learning Python.
